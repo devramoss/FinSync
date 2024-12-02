@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinSync.Core", "FinSync.Core\FinSync.Core.csproj", "{5579DEE1-C475-4E4D-BF94-2553E46A8DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinSync.Api", "FinSync.Api\FinSync.Api.csproj", "{50310851-C418-4028-8B52-838A7CF123C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5579DEE1-C475-4E4D-BF94-2553E46A8DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5579DEE1-C475-4E4D-BF94-2553E46A8DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5579DEE1-C475-4E4D-BF94-2553E46A8DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5579DEE1-C475-4E4D-BF94-2553E46A8DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50310851-C418-4028-8B52-838A7CF123C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50310851-C418-4028-8B52-838A7CF123C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50310851-C418-4028-8B52-838A7CF123C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50310851-C418-4028-8B52-838A7CF123C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
